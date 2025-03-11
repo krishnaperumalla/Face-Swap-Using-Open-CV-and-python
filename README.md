@@ -59,8 +59,5 @@ Place this file in the working directory.
 - Requires **clear and frontal** face images for accurate detection.
 - Performance may vary with **complex backgrounds or occlusions**.
 
-## Contributing
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
 
 
