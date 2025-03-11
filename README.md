@@ -51,8 +51,9 @@ Place this file in the working directory.
 
 ## Example Output
 <p align="center">
-  <img src=""C:\Users\HP\Desktop\download.png" width="600">
+  <img src="https://github.com/krishnaperumalla/Face-Swap-Using-Open-CV-and-python/blob/main/download.png?raw=true" width="600">
 </p>
+
 
 ## Limitations
 - Requires **clear and frontal** face images for accurate detection.
